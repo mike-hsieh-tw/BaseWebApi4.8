@@ -1,6 +1,7 @@
 # BaseWebApi4.8
 框架為 Asp.net4.8，使用了 jwt, swagger 套件進行 權限驗證、介面Ui。
-文章位址: https://mike.coderbridge.io/2023/08/18/ASPNet-48-WebApi-with-Swagger-Jwt/
+##### 文章位址: https://mike.coderbridge.io/2023/08/18/ASPNet-48-WebApi-with-Swagger-Jwt/
+##### JwtIO網址: https://jwt.io/
 
 ## 主要內容:
 1. 基本框架開發。
